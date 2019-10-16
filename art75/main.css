@@ -1,0 +1,23 @@
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+}
+html {
+  background: url(/img/download1.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+h1 {
+  padding: 20px 0px 10px 0px;
+
+}
